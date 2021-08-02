@@ -144,8 +144,7 @@ public class App
         s.save(ico);
         s.save(sbi);
        
-       
-        
+      
         
         tx.commit();
         s.close();
